@@ -1,0 +1,17 @@
+Release gripper
+https://code.ros.org/svn/wg-ros-pkg/stacks/pr2_object_manipulation/branches/0.4-branch/pr2_gripper_sensor_action/src/pr2_gripper_release_action.cpp
+
+
+
+grab gripper
+https://code.ros.org/svn/wg-ros-pkg/stacks/pr2_object_manipulation/branches/0.4-branch/pr2_gripper_sensor_action/src/pr2_gripper_grab_action.cpp
+
+
+
+http://brown-ros-pkg.googlecode.com/svn/trunk/experimental/pr2_remotelab/ik_control/bin/arm.py
+
+http://nullege.com/codes/show/src%40t%40u%40tum-ros-pkg-HEAD%40arm_navigation%40rosie_arm_navigation%40rosie_pr2_gripper_action%40src%40rosie_pr2_gripper_action%40rosie_pr2_gripper_action.py/66/rospy.logerr/python
+
+
+
+http://ros.org/doc/api/rospy/html/rospy.client-module.html#spin
